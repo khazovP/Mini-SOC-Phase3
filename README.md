@@ -2,6 +2,7 @@
 
 ### Introduction
 With the foundational setup completed in the previous phases, it was time to take my **Azure Mini SOC** to the next level. In this phase, I aimed to implement an **Endpoint Detection and Response (EDR) solution**, send alerts to **Microsoft Sentinel**, integrate **Threat Intelligence**, and install an **EDR agent** on an endpoint to simulate attacks. Additionally, I wanted to explore **security automation** by automatically blocking threats based on alerts.
+![Topology v2 Sentinel Automation](https://github.com/user-attachments/assets/e39805b6-80c9-45d2-bf5c-6ed2d334ff93)
 
 ---
 
